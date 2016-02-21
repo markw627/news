@@ -1,0 +1,69 @@
+.wrapper {
+  width: 900px;
+  margin: 0 auto;
+}
+
+h1 {
+	text-align: center;
+}
+
+h1:hover {
+	color: orange
+}
+
+.col {
+	float: left;
+	width: 49%;
+	padding: 15px;
+	background-color: aqua;
+	box-sizing: border-box;
+}
+
+.left {
+  margin-right: 1%;
+}
+
+.right {
+	margin-left: 1%;
+}
+
+.article {
+  padding: 30px;
+}
+
+h2 {
+  margin: 0;
+}
+
+img {
+  float: left;
+  width: 400px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
+
+.facebook {
+  position: fixed;
+  display: block;
+  background-color: blue;
+  width: 100px;
+  height: 30px;
+  line-height: 30px;
+  border-radius: 10px;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  top: 15px;
+  right: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
